@@ -1,0 +1,15 @@
+.navbar {
+    margin-bottom: 0px;
+    margin-top: 10px;       
+}
+
+.navbar-nav > li.active{
+  padding-left:20px;
+  padding-right:0px;
+}
+
+
+
+
+    
+   
